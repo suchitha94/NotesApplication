@@ -56,43 +56,7 @@ Users (id, name, email, password)
 
 Notes (id, user_id, title, content, created_at, updated_at)
 
-API Endpoints
 
-Method
-
-Endpoint
-
-Description
-
-GET
-
-/api/notes
-
-Get all notes
-
-POST
-
-/api/notes
-
-Create a new note
-
-GET
-
-/api/notes/{id}
-
-Get note details
-
-PUT
-
-/api/notes/{id}
-
-Update a note
-
-DELETE
-
-/api/notes/{id}
-
-Delete a note
 
 Future Enhancements
 
