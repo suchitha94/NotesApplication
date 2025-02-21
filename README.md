@@ -32,7 +32,7 @@ Installation Steps
 
 Clone the repository:
 
-git clone https://github.com/yourusername/notes-application.git
+(https://github.com/suchitha94/NotesApplication.git)
 
 Navigate to the project directory:
 
